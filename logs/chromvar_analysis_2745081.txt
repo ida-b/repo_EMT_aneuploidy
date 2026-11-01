@@ -1,0 +1,15 @@
+D0: 241102 peaks x 7682 cells -> /store24/project24/ladcol_023/Milan_Multiome/chromvar_input/D0
+D3: 256240 peaks x 8483 cells -> /store24/project24/ladcol_023/Milan_Multiome/chromvar_input/D3
+D7: 213873 peaks x 7341 cells -> /store24/project24/ladcol_023/Milan_Multiome/chromvar_input/D7
+
+chromVAR inputs written under /store24/project24/ladcol_023/Milan_Multiome/chromvar_input
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+==================== D0 ====================
+slurmstepd: error: *** JOB 2745081 ON slim01 CANCELLED AT 2026-11-01T21:24:21 ***

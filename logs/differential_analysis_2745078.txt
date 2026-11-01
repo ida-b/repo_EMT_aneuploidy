@@ -1,0 +1,32 @@
+
+==================== D0 ====================
+  -> REVhighAneu vs REVlowAneu: 33 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 1 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 241102
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>1.0) of 241102
+  [tfidf]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 241102
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>1.0) of 241102
+
+==================== D3 ====================
+  -> REVhighAneu vs REVlowAneu: 353 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 34 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 256240
+  -> REVlowAneu vs DMSO: 1 sig (padj<0.05, |lfc|>1.0) of 256240
+  [tfidf]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 256240
+  -> REVlowAneu vs DMSO: 1 sig (padj<0.05, |lfc|>1.0) of 256240
+
+==================== D7 ====================
+  -> REVhighAneu vs REVlowAneu: 3 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 25 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 213873
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>1.0) of 213873
+  [tfidf]
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>1.0) of 213873
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>1.0) of 213873
+
+CSVs written to /store24/project24/ladcol_023/Milan_Multiome/scripts/repo_EMT_aneuploidy/results/differential

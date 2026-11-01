@@ -1,0 +1,23 @@
+
+==================== D0 ====================
+  gene-activity features: 48390 genes
+     features tested: 44177/48390 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 56 sig (padj<0.05, |lfc|>0.25) of 44177
+     features tested: 44275/48390 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 44275
+
+==================== D3 ====================
+  gene-activity features: 49077 genes
+     features tested: 44220/49077 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 231 sig (padj<0.05, |lfc|>0.25) of 44220
+     features tested: 44322/49077 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 4 sig (padj<0.05, |lfc|>0.25) of 44322
+
+==================== D7 ====================
+  gene-activity features: 47420 genes
+     features tested: 42791/47420 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 123 sig (padj<0.05, |lfc|>0.25) of 42791
+     features tested: 43364/47420 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 39 sig (padj<0.05, |lfc|>0.25) of 43364
+
+Gene-activity CSVs written to /store24/project24/ladcol_023/Milan_Multiome/scripts/repo_EMT_aneuploidy/results/differential

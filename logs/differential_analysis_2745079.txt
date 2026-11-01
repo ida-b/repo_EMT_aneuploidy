@@ -1,0 +1,44 @@
+
+==================== D0 ====================
+  -> REVhighAneu vs REVlowAneu: 33 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 1 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+     features tested: 141976/241102 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 141976
+     features tested: 131079/241102 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 2 sig (padj<0.05, |lfc|>0.25) of 131079
+  [tfidf]
+     features tested: 141976/241102 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 141976
+     features tested: 131079/241102 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 2 sig (padj<0.05, |lfc|>0.25) of 131079
+
+==================== D3 ====================
+  -> REVhighAneu vs REVlowAneu: 353 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 34 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+     features tested: 134161/256240 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 134161
+     features tested: 126518/256240 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 3 sig (padj<0.05, |lfc|>0.25) of 126518
+  [tfidf]
+     features tested: 134161/256240 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 134161
+     features tested: 126518/256240 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 3 sig (padj<0.05, |lfc|>0.25) of 126518
+
+==================== D7 ====================
+  -> REVhighAneu vs REVlowAneu: 3 sig (padj<0.05, |lfc|>1.0) of 46804
+  -> REVlowAneu vs DMSO: 25 sig (padj<0.05, |lfc|>1.0) of 46804
+  [lognorm]
+     features tested: 127700/213873 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 127700
+     features tested: 116644/213873 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>0.25) of 116644
+  [tfidf]
+     features tested: 127700/213873 (detected in >= 5% of a group)
+  -> EMThigh vs EMTlow: 0 sig (padj<0.05, |lfc|>0.25) of 127700
+     features tested: 116644/213873 (detected in >= 5% of a group)
+  -> REVlowAneu vs DMSO: 0 sig (padj<0.05, |lfc|>0.25) of 116644
+
+CSVs written to /store24/project24/ladcol_023/Milan_Multiome/scripts/repo_EMT_aneuploidy/results/differential

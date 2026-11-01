@@ -1,0 +1,4 @@
+timepoint  DEG_sig  GA_sig  overlap  overlap_concordant  overlap_hyper_p  spearman_lfc   spearman_p  nDEGstrict  pct_GA_same_sign  sign_binom_p
+       D0      230      56        1                   0         0.262252         0.019 3.104547e-04           0               NaN           NaN
+       D3     1295     231        7                   7         0.576109        -0.001 8.178864e-01          34              76.5      0.002935
+       D7     1036     123        1                   0         0.940673         0.029 4.351332e-08          25              80.0      0.004077

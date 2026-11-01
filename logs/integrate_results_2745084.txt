@@ -1,0 +1,4 @@
+timepoint  DEG_sig  GA_sig  overlap  concordant_direction  pct_concordant
+       D0      230      56        1                     0             0.0
+       D3     1295     231        7                     7           100.0
+       D7     1036     123        1                     0             0.0
